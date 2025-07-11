@@ -1,0 +1,6 @@
+streamlit
+openai
+langchain>=0.1.14
+git+https://github.com/langchain-ai/langchain@master
+git+https://github.com/langchain-ai/langchain-community@main
+langchain-ollama>=0.0.6
